@@ -1,0 +1,2 @@
+# MySmartApp
+First Android project
